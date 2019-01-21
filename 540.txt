@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Tapas Dhar</title>
+    <style>
+      body {
+         background-color: lightgray;
+        
+      }
+      table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+    </style>
+  </head>
+
+  <body>
+    <h1 id="h1.1"style="text-align:center;">TAPAS DHAR</h1>
+    <p id="p1" style="text-align:center;"><b>(813)-508-1461 | tapas_nsu@yahoo.com</b></p>
+
+    <h3 id="h3.1"><ins>BIO:</ins></h3> <hr>
+
+    <p id="p2"> My name is Tapas Dhar and I am pursuing Master’s in Information Systems Engineering and Management (ISEM) at HU. I am from Dhaka, Bangladesh and currently I am residing in Michigan. Before moving to the United States, I completed my undergrads in Finance and Economics in Bangladesh. Currently I am working as a Business Intelligence analyst at Fiat Chrysler Automobiles located in Auburn Hills, MI.
+    During my leisure time when I am not working, I love to watch many critically acclaimed movies as I believe I still want to be a movie critic. I also like to run as I did 5k multiple times.</p>
+
+    <h3 id="h3.2"><ins>ACADEMIC BACKGROUND:</ins></h3> <hr>
+
+    <p id="p3"><b><a href="https://www.harrisburgu.edu">Harrisburg University of Science & Technology</a>, Harrisburg, PA </b><br>
+    <b><i>M.S. in Information Systems Engineering & Management, Dec 2019</i></b></p>
+    <ul id="ul1"style="list-style-type:disc">
+      <li>GPA:4.00/4.00</li>
+      <li>Relevant Coursework: Strategic Information System Planning & Engineering, Object-oriented Software, Business Intelligence & Decision Support Systems, Architecture & Integration of Modern Enterprises</li>
+    </ul>
+
+    <p id="p4"><b><a href="https://www.ut.edu">The University of Tampa</a>,Tampa, FL </b><br>
+    <b><i>M.S. in Finance, May 2015</i></b></p>
+    <ul id="ul2"style="list-style-type:disc">
+      <li>GPA:3.81/4.00</li>
+      <li>GMAT: 650</li>
+      <li>Graduate Assistantship providing full tuition waiver and stipend</li>
+      <li>Relevant Coursework: Business Analytics, Decision Modeling and Analysis, Enterprise Systems, Business Analysis and Valuation, Financial Management and Strategy, International Finance</li>
+    </ul>
+
+    <p id="p5"><b><a href="http://www.northsouth.edu/">North South University</a>,Dhaka, Bangladesh </b><br>
+    <b><i>Bachelor of Business Administration-Finance, August 2011</i></b></p>
+    <ul id="ul3"style="list-style-type:disc">
+      <li>GPA:3.77/4.00</li>
+      <li>Merit-based full scholarship for the 4-year undergraduate program</li>
+      <li>Relevant Coursework: Computer Information Systems, Econometrics, Applied Statistics, Corporate Finance, Working Capital Management, Financial Markets and Institutions</li>
+    </ul>
+
+  <h3 id="h3.5"><ins>COURSES TAKEN AT HU:</ins></h3> <hr>
+  <ul id="ul4"style="list-style-type:disc">
+      <li>ISEM 500</li>
+      <li>MGMT 510</li>
+      <li>ANLY 500</li>
+      <li>ISEM 501</li>
+      <li>ISEM 530</li>
+      <li>ISEM 540</li>
+  </ul>
+  
+  <h3 id="h3.6"><ins>HOBBIES:</ins></h3> <hr>
+  <ol type="1">
+  <li>Movies</li>
+  <li>Soccer</li>
+  <li>Running</li>
+  <li>Cats</li>
+  <li>Action figures</li>
+
+</ol>
+  </body>
+
+</html>
